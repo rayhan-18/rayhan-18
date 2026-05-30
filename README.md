@@ -34,8 +34,11 @@
 ### 📊 GitHub Stats & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhan-18&theme=dracula&show_icons=true&count_private=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhan-18&theme=dracula&layout=compact&langs_count=5" height="165" alt="languages graph" />
+  <!-- Menggunakan layanan Streak Stats Demolab -->
+  <img src="https://streak-stats.demolab.com?user=rayhan-18&theme=dracula&hide_border=false" height="165" alt="GitHub Streak" />
+  
+  <!-- Menggunakan layanan Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayhan-18&theme=dracula" height="165" alt="Top Languages" />
 </div>
 
 ---
