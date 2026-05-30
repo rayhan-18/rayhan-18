@@ -1,23 +1,3 @@
-<!--
-=======================================================================
-💡 TIPS & PANDUAN UPDATE (Teks ini tidak akan tampil di profil publik)
-=======================================================================
-1. GANTI USERNAME: 
-   Cari teks "USERNAME_GITHUB_KAMU" di bagian "GitHub Stats" (ada 2) 
-   lalu ganti dengan username GitHub aslimu.
-
-2. EDIT TEKS ANIMASI MENGETIK: 
-   Di bagian "Typing SVG", cari teks "lines=...". Kamu bisa mengganti 
-   kalimatnya di sana. Ingat, gunakan tanda "+" untuk menggantikan spasi 
-   (misal: Halo+Semua).
-
-3. UPDATE LINK SOSIAL MEDIA:
-   Di bagian "Let's Connect!", cari teks seperti "[ISI_LINK_LINKEDIN_DISINI]".
-   Hapus teks tersebut dan masukkan URL / link profil aslimu di dalam 
-   tanda kutip href="...".
-=======================================================================
--->
-
 <h1 align="center">
   Hello, everyone! I'm Muhamad Rayhan 
   <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35" alt="waving hand">
@@ -54,8 +34,8 @@
 ### 📊 GitHub Stats & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=USERNAME_GITHUB_KAMU&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhan-18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhan-18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="165" alt="languages graph" />
 </div>
 
 ---
