@@ -1,3 +1,23 @@
+<!--
+=======================================================================
+💡 TIPS & PANDUAN UPDATE (Teks ini tidak akan tampil di profil publik)
+=======================================================================
+1. GANTI USERNAME: 
+   Cari teks "USERNAME_GITHUB_KAMU" di bagian "GitHub Stats" (ada 2) 
+   lalu ganti dengan username GitHub aslimu.
+
+2. EDIT TEKS ANIMASI MENGETIK: 
+   Di bagian "Typing SVG", cari teks "lines=...". Kamu bisa mengganti 
+   kalimatnya di sana. Ingat, gunakan tanda "+" untuk menggantikan spasi 
+   (misal: Halo+Semua).
+
+3. UPDATE LINK SOSIAL MEDIA:
+   Di bagian "Let's Connect!", cari teks seperti "[ISI_LINK_LINKEDIN_DISINI]".
+   Hapus teks tersebut dan masukkan URL / link profil aslimu di dalam 
+   tanda kutip href="...".
+=======================================================================
+-->
+
 <h1 align="center">
   Hello, everyone! I'm Muhamad Rayhan 
   <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyj/giphy.gif" width="35" alt="waving hand">
@@ -33,7 +53,6 @@
 
 ### 📊 GitHub Stats & Streaks
 
-<!-- JANGAN LUPA Ganti USERNAME_GITHUB_KAMU dengan username aslimu! -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=USERNAME_GITHUB_KAMU&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="165" alt="languages graph" />
@@ -79,13 +98,13 @@
   <a href="https://www.instagram.com/ryhnnnn_18?utm_source=qr&igsh=cm42bmV0bHBzY3d1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="[ISI_LINK_LINKEDIN_DISINI]" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://discord.com/" target="_blank">
+  <a href="[ISI_LINK_DISCORD_DISINI]" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
+  <a href="[ISI_LINK_YOUTUBE_DISINI]" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
 </div>
