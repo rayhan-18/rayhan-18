@@ -34,8 +34,8 @@
 ### 📊 GitHub Stats & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayhan-18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhan-18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rayhan-18&theme=dracula&show_icons=true&count_private=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhan-18&theme=dracula&layout=compact&langs_count=5" height="165" alt="languages graph" />
 </div>
 
 ---
